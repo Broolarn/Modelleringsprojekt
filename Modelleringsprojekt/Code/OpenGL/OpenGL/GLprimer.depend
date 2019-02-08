@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1464269862 source:h:\tnm046\glprimer.cpp
+	<iostream>
+	<math.h>
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	"Shader.hpp"
+	"TriangleSoup.hpp"
+	"Texture.hpp"
+	"Rotator.hpp"
+
+1460632329 h:\tnm046\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1460632324 source:h:\tnm046\utilities.cpp
+	"Utilities.hpp"
+
+1460632325 h:\tnm046\utilities.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<GL/glext.h>
+
+1460632327 h:\tnm046\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1460632316 h:\tnm046\shader.hpp
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	<cstdio>
+
+1460632314 source:h:\tnm046\shader.cpp
+	"Shader.hpp"
+
+1460632322 h:\tnm046\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cmath>
+	<cstring>
+	"Utilities.hpp"
+
+1464081746 source:h:\tnm046\trianglesoup.cpp
+	"TriangleSoup.hpp"
+
+1460632319 h:\tnm046\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1463726881 source:h:\tnm046\texture.cpp
+	"Texture.hpp"
+
+1460632311 source:h:\tnm046\rotator.cpp
+	"Rotator.hpp"
+
+1460632312 h:\tnm046\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1464238002 source:c:\users\erik asp\documents\tnm046\rotator.cpp
+	"Rotator.hpp"
+
+1464238002 c:\users\erik asp\documents\tnm046\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1464238010 c:\users\erik asp\documents\tnm046\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1464238004 source:c:\users\erik asp\documents\tnm046\shader.cpp
+	"Shader.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm046\shader.hpp
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	<cstdio>
+
+1464238008 c:\users\erik asp\documents\tnm046\utilities.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<GL/glext.h>
+
+1464238010 c:\users\erik asp\documents\tnm046\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1464238004 source:c:\users\erik asp\documents\tnm046\texture.cpp
+	"Texture.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm046\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1464238004 source:c:\users\erik asp\documents\tnm046\trianglesoup.cpp
+	"TriangleSoup.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm046\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cmath>
+	<cstring>
+	"Utilities.hpp"
+
+1464238008 source:c:\users\erik asp\documents\tnm046\utilities.cpp
+	"Utilities.hpp"
+
+1464238002 source:c:\users\erik asp\documents\tnm085\opengl\rotator.cpp
+	"Rotator.hpp"
+
+1464238002 c:\users\erik asp\documents\tnm085\opengl\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1464238010 c:\users\erik asp\documents\tnm085\opengl\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1464238004 source:c:\users\erik asp\documents\tnm085\opengl\shader.cpp
+	"Shader.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm085\opengl\shader.hpp
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	<cstdio>
+
+1464238008 c:\users\erik asp\documents\tnm085\opengl\utilities.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<GL/glext.h>
+
+1464238010 c:\users\erik asp\documents\tnm085\opengl\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1464238004 source:c:\users\erik asp\documents\tnm085\opengl\texture.cpp
+	"Texture.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm085\opengl\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1464238004 source:c:\users\erik asp\documents\tnm085\opengl\trianglesoup.cpp
+	"TriangleSoup.hpp"
+
+1464238004 c:\users\erik asp\documents\tnm085\opengl\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cmath>
+	<cstring>
+	"Utilities.hpp"
+
+1517564774 source:c:\users\erik asp\documents\tnm085\opengl\utilities.cpp
+	"Utilities.hpp"
+
+1519381426 source:c:\users\erik asp\documents\tnm085\opengl\glprimer.cpp
+	<iostream>
+	<math.h>
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	"Shader.hpp"
+	"TriangleSoup.hpp"
+	"Texture.hpp"
+	"Rotator.hpp"
+
+1520863522 source:d:\tnm085\opengl\opengl\glprimer.cpp
+	<iostream>
+	<math.h>
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	"Shader.hpp"
+	"TriangleSoup.hpp"
+	"Texture.hpp"
+	"Rotator.hpp"
+
+1519358848 d:\tnm085\opengl\opengl\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<GLES3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519358846 d:\tnm085\opengl\opengl\utilities.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<GL/glext.h>
+
+1519358848 d:\tnm085\opengl\opengl\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1519358844 d:\tnm085\opengl\opengl\shader.hpp
+	<GLFW/glfw3.h>
+	"Utilities.hpp"
+	<cstdio>
+
+1519358844 d:\tnm085\opengl\opengl\trianglesoup.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cmath>
+	<cstring>
+	"Utilities.hpp"
+
+1519358844 d:\tnm085\opengl\opengl\texture.hpp
+	<GLFW/glfw3.h>
+	<cstdio>
+	<cstring>
+	"Utilities.hpp"
+
+1519358844 d:\tnm085\opengl\opengl\rotator.hpp
+	<GLFW/glfw3.h>
+	<cmath>
+
+1519358844 source:d:\tnm085\opengl\opengl\rotator.cpp
+	"Rotator.hpp"
+
+1519358844 source:d:\tnm085\opengl\opengl\shader.cpp
+	"Shader.hpp"
+
+1519358844 source:d:\tnm085\opengl\opengl\texture.cpp
+	"Texture.hpp"
+
+1519358846 source:d:\tnm085\opengl\opengl\trianglesoup.cpp
+	"TriangleSoup.hpp"
+
+1519358846 source:d:\tnm085\opengl\opengl\utilities.cpp
+	"Utilities.hpp"
+
